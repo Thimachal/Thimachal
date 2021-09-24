@@ -10,9 +10,9 @@
   <img align="center" alt="Thimachal- ADVPL TOTVS Protheus" height="30" width="30" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/protheus.jpg">
   <img align="center" alt="Thimachal-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thimachal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Thiumachal-MySQL" height="70" width="50" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Thimachal-.NET" height="30" width="40" src="https://icongr.am/devicon/dot-net-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Thimachal-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Thiumachal-CSS" height="70" width="50" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Thimachal-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="Thimachal-ReactJS" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
 </div>
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thimachal&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
