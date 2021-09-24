@@ -1,7 +1,7 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
 - 🔭 Hoje trabalho como comprador e estou em transição de carreira
-- 🌱 Estudando C# e .NET
+- 🌱 Estudando HTML, CSS, JavaScript e React JS
 - 🥊 Meu aprendizado base foi em C++
 - 🤠 Ele/dele
 ##
