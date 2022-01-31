@@ -11,7 +11,7 @@
   <img align="center" alt="Thimachal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiumachal-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thimachal-ReactJS" height="30" width="40" src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor">
+  <img align="center" alt="Thimachal-NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-Csharp" height="35" width="40" src="https://icongr.am/devicon/csharp-original.svg?size=128&color=currentColor">
 </div>
 <br>
