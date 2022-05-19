@@ -1,9 +1,9 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
-- 🔭 Hoje trabalho como comprador e estou em transição de carreira
-- 🌱 Estudando JavaScript, NodeJS e Postgre na Cubos Academy
-- 🥊 Meu aprendizado base foi em C++
-- 🤠 Ele/dele
+- 🌱  Estudando JavaScript, NodeJS, API e Postgre na Cubos Academy
+- ✔   Link da API de funcionalidades de um banco digital que fiz como desafio:  https://github.com/Thimachal/desafio-backend-02-sistema-bancario-dbe-t01
+- 🤠  Ele/dele
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Thimachal c plus plus" height="35" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
