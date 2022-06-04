@@ -1,6 +1,6 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
-- 🌱  Estudando JavaScript, NodeJS, API e Postgre na Cubos Academy
+- 🌱  Estudando JavaScript, NodeJS, API e Postgre na Cubos Academy. Por afinidade, estudo também a linguagem C# na Alura.
 - ✔   Link da API de funcionalidades de um banco digital que fiz como desafio:  https://github.com/Thimachal/desafio-backend-02-sistema-bancario-dbe-t01
 - 🤠  Ele/dele
 
