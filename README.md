@@ -2,12 +2,7 @@
 
 - 🌱  Atualmente estudo Back-End com JavaScript, NodeJS, Postgre, Git e Soft Skills na Cubos Academy.
 - 🤠  Ele/dele       
-          
-          
-       https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/1/totvs-logo.jpg   
-            
-          
-
+               
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Thimachal postgress" height="50" width="50" src="https://icongr.am/devicon/postgresql-plain-wordmark.svg?size=128&color=6d85b6">
