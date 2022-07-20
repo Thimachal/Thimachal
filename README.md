@@ -1,6 +1,6 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
-- 🌱  Estudo Back-End JavaScript, NodeJS, API e Postgre na Cubos Academy.
+- 🌱  Atualmente estudo Back-End com JavaScript, NodeJS, Postgre, Git e Soft Skills na Cubos Academy.
 - 🤠  Ele/dele
 
 ##
