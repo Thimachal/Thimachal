@@ -1,12 +1,17 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
 - 🌱  Atualmente estudo Back-End com JavaScript, NodeJS, Postgre, Git e Soft Skills na Cubos Academy.
-- 🤠  Ele/dele
+- 🤠  Ele/dele       
+          
+          
+       https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/1/totvs-logo.jpg   
+            
+          
 
 ##
 <div style="display: inline_block"><br>
-  <img align="center" alt="Thimachal c plus plus" height="35" width="40" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Thimachal- ADVPL TOTVS Protheus" height="30" width="30" src="https://www.traycorp.com.br/wp-content/uploads/2020/03/protheus.jpg">
+  <img align="center" alt="Thimachal postgress" height="50" width="50" src="https://icongr.am/devicon/postgresql-plain-wordmark.svg?size=128&color=6d85b6">
+  <img align="center" alt="Thimachal- ADVPL TOTVS Protheus" height="50" width="50" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/1/totvs-logo.jpg">
   <img align="center" alt="Thimachal-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiumachal-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
