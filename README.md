@@ -12,12 +12,7 @@
   <img align="center" alt="Thiumachal-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-NodeJS" height="100" width="100" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
-  <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"> <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-
-
-
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg
-  
+  <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor"> <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
 </div>
 <br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thimachal&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
