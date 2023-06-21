@@ -13,8 +13,6 @@
   <img align="center" alt="Thimachal-JavaScript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-NodeJS" height="100" width="100" src="https://icongr.am/devicon/nodejs-original-wordmark.svg?size=128&color=currentColor">
   <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
-
-  <img align="center" alt="Thimachal-Java" height="60" width="60" src="https://icongr.am/devicon/java-original-wordmark.svg?size=128&color=currentColor">
   
 </div>
 <br>
