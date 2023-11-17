@@ -18,7 +18,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Thimachal&theme=blueberry&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Thimachal.vercel.app/api/top-langs/?username=Thimachal&show_icons=true&theme=blueberry&layout=compact" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-thimachal.vercel.app/api/top-langs/?username=thimachal&show_icons=true&theme=blueberry&layout=compact" />
   
  </div>
  
