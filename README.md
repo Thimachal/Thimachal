@@ -16,7 +16,7 @@
 
 <div>
 
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimachal&hide_progress=true&theme=merko" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimachal&hide_progress=true&theme=dark" />
 
 </div>
 
