@@ -1,6 +1,6 @@
 *** Olá, sou Thiago e seja muito bem vindo! *** 🤜🏾🤛🏾
 
-- 🌱 Focado no Back-End, desenvolvo API's com Java, Spring Boot, Postgre e Mysql.
+- 🌱 Focado em programar no Back-End, desenvolvo API's com Java, Spring Boot, Postgre e Mysql.
 - 🤠 Ele/dele            
 
 <div style="display: inline_block"><br>
