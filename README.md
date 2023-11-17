@@ -14,13 +14,11 @@
   <img align="center" alt="Thimachal ADVPL TOTVS Protheus" height="50" width="50" src="https://s3.amazonaws.com//beta-img.b2bstack.net/uploads/production/provider/image/1/totvs-logo.jpg">
 
 
+<div>
 
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimachal&hide_progress=true&theme=merko" />
 
-
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thimachal&hide_progress=true" />
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true
-
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Thimachal&show_icons=true&theme=radical&layout=hide_progress=true" />
+</div>
 
  
 ##
